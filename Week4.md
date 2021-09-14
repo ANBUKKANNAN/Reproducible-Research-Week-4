@@ -1,6 +1,5 @@
 #  Storm Data Analysis
-W. Aaron Morris  
-
+K. Kannan
 
 
 # Overview
